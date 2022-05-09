@@ -1,3 +1,4 @@
+# Computational Frequentist and Bayesian Inference of Total Dissolved Solids in Water Samples
 ## Background
 Water is essential for all human life, it is important to have safe drinking water for health protection. This dataset from Kaggle describes the water quality metrics of different water bodies around the world. The sample size,n, for this dataset is 3276. There are 10 variables in this dataset in total: "Ph", "Hardness", "Solids", "Chloramines", "Sulfate", "conductivity", "Organic carbon", "Trihalomethanes", "Turbidity", and "Potability".
 
