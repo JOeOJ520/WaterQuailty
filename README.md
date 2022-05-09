@@ -21,7 +21,7 @@ This project uses R with R markdown for better visualization. Please visit the o
 - Markov chain Monte Carlo (MCMC) Random Walk for posterior distributions
 
 ## Files in this project
-- Unsupervised Anaylsis.rmd: R Markdown version for the report (with executable codes). R 4.1.2 or above, R studio and R Markdown package is required for executions.
+- Unsupervised Anaylsis.rmd: R Markdown version for the report (with executable codes). R 4.1.2 or above, R studio and R Markdown package are required for execution.
 
 - Unsupervised Anaylsis.pdf: The PDF version for the report,
 
